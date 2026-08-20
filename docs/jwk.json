@@ -1,12 +1,15 @@
 {
-  "keys": [
-    {
-      "kty": "RSA",
-      "use": "sig",
-      "kid": "example-key-1",
-      "n": "0vx7agoebGcQSuuPiLJXZptN9nndrQmbXEps2aiAFbWhM78LhWx4cbbfAAtVT86zwu1RK7aPFFxuhDR1L6tSoc_BJECPebWKRXjBZCiFV4n3oknjhMstn64tZ_2W-5JsGY4Hc5n9yBXArwl93lqt7_RN5w6Cf0h4QyQ5v-65YGjQR0_FDW2QvzqY368QQMicAtaSqzs8KJZgnYb9c7d0zgdAZHzu6qMQvRL5hajrn1n91CbOpbISD08qNLyrdkt-bFTWhAI4vMQFh6WeZu0fM4lFd2NcRwr3XPksINHaQ-G_xBniIqbw0Ls1jF44-csFCur-kEgU8awapJzKnqDKgw",
-      "e": "AQAB",
-      "alg": "RS256"
-    }
-  ]
+    "keys": [
+        {
+            "p": "zj_7CSFv7YTpkfyL2JexjIM4GWU-nxFul7_YoRIygdX1hlzbjvVj1P9mbipBHd2q6uvfD5PaKSEpPUqSl89t974It3fhgKTt6V68AlaCEglGtPC0kyyGZKOAtUhbGyKHwV1vKyu1faiv-hb5-tQkiOCA71CepB62HMfVINp_iUk",
+            "kty": "RSA",
+            "q": "vymZF3V8j80UY3AkbLDtDMhWyc1goil4LymiDrlhbu3uK1SNbfJA1_myJT7jirmL7gkO8QLT-Il71v-AH4pAZTr_tA0dLIpJZ9PFDP8XHb2rxhoxLORpScz2VrxVYPDgz4-d3kGmjZl5sMiT7xtIykHiYwq4R_1Xdv-IWhv_tD0",
+            "d": "AQRcQRTZKv4hIMv4bTjAsL9HaCu4tDRo46nfan0nVA5ZOuagoFI_pgliS71xSErfhp-rQeVhgoxfqbmbUSphEolroojOGGBp_6RPXgNX4HalrmyI2Fk-fqzfkwsUdgAEle7rTRJYLBDBvumAJ1u6JABKVOWp025EEwdGRIbB3d3rR2UnybpMBrvULpkfbQVZcCJ6lf4vYAAxnI1ViepE7Hc5739GmkbLUAvv0BPgjtW7bBSo4vLLp5If575P1Ren8WmCN5o0WJLLsZLcxZRL3A_PM-O7qhbgywsmlFYY27scM9je2bRgPXDyKe_AMdmUtFEsapRXg_5xPYJudrPLIQ",
+            "e": "AQAB",
+            "qi": "CB-kGsGdY_b86LSyKbqqzpfnvoVx2ltCjPKu2aGCf5ccDLk88nkafM73ITKtePIGzTXgyFhksFHjqNUJQbqKDrbIlsuuyUVWNbbdK8A2T2NnYmU55GCh3EMB-mWDigxGixtYLdx6XZz_07aCfEKnrtNAT-TSfc1fnieAsQFk5YU",
+            "dp": "d6OleyZqRt1Sn9xfQsS7uUZkxFZ2fM8f1-bxQn3LzoTOZ6J1ufeecW-1ezIHk8uB2cP5IJAjfLg_s84OOwGYSJ1zcPmZVYZWe4j4hmKoEM5QtaTrGnQ5gSdXAdF3B8Z_-Sq50dEI9ltjuS6a02U7zCpuoGOjopAuE4PXnbchRAE",
+            "dq": "lba_hobmEj18bVCDxnhefzdb-VqXBwnRbaZ-nGeFrno7oMXsqiIjtMKDSfZSAPDGbZu8jvc3Chyq17xtHMaLHn0xjFME-UAos19Aoaga85j7sgALaWxOJZWXjGCdwXmFqCmDa3EhPx7nFpRQf-BvhrBI3Gal4wO__5urr17kScU",
+            "n": "mgM_4ifYeITWJ7DNPgTxcRhYAmBYSoiy0O5uw4qBqyeau8IzkGPidf8DfbWL52EZqfMMKi3Jq0bpQHBZcufBtV1dob9N7RwGFG0LKtAnDtXTBTBFI73afSlbgYmIXI_CUiBo5GICWH1scrR0co3u4dL6U7snOlpG1Cuem9l0X9aWqxnKF3eM2X9jPb5qcA2eDQEVjzmZJiPejeRLlISYzKdmAtZZHZNYF98dT5cAjtdvW2DOE7LkTHYat9TQoXqoiA4uhsGFfIbv4SLyztYLguxC_30uLrO8dUukdd_KYmRBLQt6SgB0tIDZNK8NH_8rHO0fE45RuOoXugakL6IKZQ"
+        }
+    ]
 }
